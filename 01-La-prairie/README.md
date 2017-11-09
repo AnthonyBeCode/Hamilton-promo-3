@@ -27,7 +27,7 @@ Group exercice (2-3)
 
 ## Markdown warm up 2
 
-- The ones that do not have the repository will `fork` it
+- The ones that do not have the repository will `fork it
 - Add the following modifications
   - Add a recommandation of a futur change
   - Add a list of the group members
@@ -36,5 +36,17 @@ Group exercice (2-3)
 - By group see how the original accepts the `pull-request`
 - Create an `issue` on the repository of the other groups members
 - All the group solve their own issues
+
+## Markdown warm up 3
+- Install an IDE
+- [Install git](./git/exercice-git-1-installation.md)
+- [Configure GitHub](./git/exercice-git-configuration.md)
+- Clone the `markdown-warmup` repository to your computer using command lines
+- Modify the `README.md` by adding screenshots to illustrate the website
+- `Commit` your changes
+- `Push` your changes to the GitHub Server
+
+Have time left ?
+Start the [git training course](./git/exercice-git-training.md)
 
 
