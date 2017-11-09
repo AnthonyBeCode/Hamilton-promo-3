@@ -41,7 +41,7 @@ Group exercice (2-3)
 - Install an IDE
 - [Install git](./git/exercice-git-1-installation.md)
 - [Configure GitHub](./git/exercice-git-configuration.md)
-- Clone the `markdown-warmup` repository to your computer using command lines
+- `clone` the `markdown-warmup` repository by *using command lines*
 - Modify the `README.md` by adding screenshots to illustrate the website
 - `Commit` your changes
 - `Push` your changes to the GitHub Server
