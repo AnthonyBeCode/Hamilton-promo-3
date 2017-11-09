@@ -27,7 +27,7 @@ Group exercice (2-3)
 
 ## Markdown warm up 2
 
-- The ones that do not have the repository will fork it
+- The ones that do not have the repository will `fork` it
 - Add the following modifications
   - Add a recommandation of a futur change
   - Add a list of the group members
