@@ -34,7 +34,7 @@ When you're prompted to "Enter a file in which to save the key," press `Enter`. 
 1. cat ~/*my-key-name*/*my-key-name*.pub
 1. copier la clé ssh ( commence par `ssh-rsa ......`)
 -->
-1. Suivre ce tuto à partir du point 2 : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+Suivre ce tuto à partir du *point 2* : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
 ### Utiliser GitHub avec le terminal pour **Mac**
 
