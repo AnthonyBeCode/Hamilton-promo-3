@@ -14,7 +14,7 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 ### Your presence is required.
 - If you ever must set up an appointment, we strongly recommend you schedule it on **Tuesday mornign** (be back at BeCode 13h25).
-- If you have to be somewhere or if you are ill, **you must warn us at least a day in advance by an email** to {PROMO_COACH1_EMAIL}  AND {PROMO_COACH2_EMAIL} . We will add it to the startup agenda so that everyone knows you're not available for them at that moment.
+- If you have to be somewhere or if you are ill, **you must warn us at least a day in advance by an email** to teddy@becode.org  AND eric@becode.org. We will add it to the startup agenda so that everyone knows you're not available for them at that moment.
 
 ### **Justifications are mandatory.**
 

@@ -4,49 +4,26 @@
 
 Searching is an important part of the job of web developer. As such, Google is your friend. [Read these power tips on using Google Search](./using-google.md).
 
-## Markdown warm up
+## Exercice : Markdown
 
-Group exercice (2-3)
+Do the following exercice about markdown : [Markdown-Warm up](./markdown-warmup.md)
 
-1. One of the groupe creates a repository named : markdown-warmup
-2. Find a website that deserves improvements
-3. Analyse it
-4. Answer to the following questions with markdown within the README.md file
+## Git and GitHub
 
-*Use markdown as much as you can*
+- Install a [text editor](https://github.com/becodeorg/BeCode/wiki/%C3%89diteurs-de-code)
+- [Install Git on your computer](./git/exercice-git-1-installation.md)
+- Exercice : [Configure GitHub and Git](./git/exercice-git-configuration.md)
+- Test git
+  * `git clone` the `markdown-warmup` repository by *using command lines*
+  * Modify the `README.md` by adding screenshots to illustrate the website
+  * `git add` your changes
+  * `git commit` your changes
+  * `git push` your changes to the GitHub Server
+- [Exercice : Git training](git/exercice-git-training.md)
+<!-- - [Exercice : Cadavre exquis](git/exercice-git-cadavre-exquis.md) -->
 
-### Questions :
+<!--
+## Markdown, HTML and stuff
 
-- Wich website did you find ? (name, url, link )
-- Is it updated frequently ?
-- How did you find it ?
-- Why this website needs updates or a remake ?
-- Is this website present on social networks ?
-- Make a list of recomandations of futur changes
-- With your group, present your markdown and the website
-
-## Markdown warm up 2
-
-- The ones that do not have the repository will `fork it
-- Add the following modifications
-  - Add a recommandation of a futur change
-  - Add a list of the group members
-- Commit the changes
-- Send a `pull request` to the original one
-- By group see how the original accepts the `pull-request`
-- Create an `issue` on the repository of the other groups members
-- All the group solve their own issues
-
-## Markdown warm up 3
-- Install an IDE
-- [Install git](./git/exercice-git-1-installation.md)
-- [Configure GitHub](./git/exercice-git-configuration.md)
-- `clone` the `markdown-warmup` repository by *using command lines*
-- Modify the `README.md` by adding screenshots to illustrate the website
-- `Commit` your changes
-- `Push` your changes to the GitHub Server
-
-Have time left ?
-Start the [git training course](./git/exercice-git-training.md)
-
-
+- [Liste des exercices](html-css/README.md)
+-->
