@@ -22,7 +22,8 @@ Do the following exercice about markdown : [Markdown warm up](./markdown-warmup.
 - [Exercice : Git training](git/exercice-git-training.md)
 <!--
   - [Exercice : Cadavre exquis](git/exercice-git-cadavre-exquis.md)
-
+-->
+<!--
 ## Discover the terminal
 
 - [Initiation to the terminal](./tools/initiation_terminal.md)
