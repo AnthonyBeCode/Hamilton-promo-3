@@ -5,7 +5,7 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 ## Tools
 1. GitHub : send your coach your Github login as soon as possible.
-1. Your startup's agenda : [html](https://calendar.google.com/calendar/embed?src=becode.org_polsjrmae5rtbr6u4i2jvgih90%40group.calendar.google.com&ctz=Europe/Brussels) version | [iCal](https://calendar.google.com/calendar/ical/becode.org_polsjrmae5rtbr6u4i2jvgih90%40group.calendar.google.com/public/basic.ics) version
+1. Your startup's agenda : [html](https://calendar.google.com/calendar/embed?src=becode.org_cceo4s4gq7lpf0d0gjantq5d18%40group.calendar.google.com&ctz=Europe/Brussels) version | [iCal](https://calendar.google.com/calendar/ical/becode.org_cceo4s4gq7lpf0d0gjantq5d18%40group.calendar.google.com/public/basic.ics) version
 1. The [BeCode Wiki (French)](https://github.com/becodeorg/BeCode/wiki)
 
 ## The BeCode rules

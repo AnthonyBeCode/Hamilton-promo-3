@@ -6,7 +6,7 @@ Searching is an important part of the job of web developer. As such, Google is y
 
 ## Exercice : Markdown
 
-Do the following exercice about markdown : [Markdown-Warm up](./markdown-warmup.md)
+Do the following exercice about markdown : [Markdown warm up](./markdown-warmup.md)
 
 ## Git and GitHub
 
