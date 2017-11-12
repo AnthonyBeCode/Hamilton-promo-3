@@ -1,5 +1,3 @@
-# English version
-
 ## OBJECTIFS
 
 - Markdown Skills Improvements
