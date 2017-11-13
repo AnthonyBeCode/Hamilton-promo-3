@@ -20,16 +20,11 @@ Do the following exercice about markdown : [Markdown warm up](./markdown-warmup.
   * `git commit` your changes
   * `git push` your changes to the GitHub Server
 - [Exercice : Git training](git/exercice-git-training.md)
-<!--
-  - [Exercice : Cadavre exquis](git/exercice-git-cadavre-exquis.md)
--->
-<!--
+- :fr: Exercice : [Cadavre exquis](git/exercice-git-cadavre-exquis.md) :uk: [Exquisite-corpse](git/exercice-git-exquisite-corpse.md)
+
 ## Discover the terminal
-
 - [Initiation to the terminal](./tools/initiation_terminal.md)
--->
 
-<!--
 ## Markdown, HTML and stuff
 - [Liste des exercices](html-css/README.md)
--->
+
