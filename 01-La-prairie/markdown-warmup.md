@@ -4,7 +4,7 @@
 Group exercice (2-3)
 
 ## Step 1 :
-1. One of the groupe creates a repository named : markdown-warmup
+1. One of the groupe creates a repository named : `markdown-warmup`
 2. Find a website that deserves improvements
 3. Analyse it
 4. Answer to the following questions with markdown within the README.md file
