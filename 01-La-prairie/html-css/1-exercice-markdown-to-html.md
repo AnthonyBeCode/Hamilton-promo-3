@@ -2,19 +2,19 @@
 
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
-  <h1> First exercice with HTML/CSS</h1>
+  <title>index</title>
 </head>
 
 <body>
 
-<h2>
+<h1>
 Objectifs
-</h2>
+</h1>
 
 <li>Explorer le language HTML</li>
 <li>Comprendre le lien entre le markdown et le HTML</li>
 
-<h2>Instruction</h2>
+<h1>Instruction</h1>
 
 <li>Créer toi un repository GitHub `markdown-warmup-html</li>
 <li>Crée un fichier `index.html</li>
