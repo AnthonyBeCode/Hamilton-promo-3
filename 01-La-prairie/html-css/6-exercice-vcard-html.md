@@ -4,7 +4,7 @@
 - Connaître plus de propriété CSS
 - Améliorer ses compétences en positionement CSS
 
-## Instructions 
+## Instructions
 
 - Voici quelques [inspirations](https://www.google.be/search?q=vcard&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjIqtvku6zTAhVmIJoKHQDZD4wQ_AUIBigB&biw=1250&bih=703#tbm=isch&q=vcard+template)
 - Regrouper les informations dont vous aurez besoin pour votre **VCard**
@@ -17,7 +17,7 @@
 - Mettre une image de fond
 - Ajouter des dégradés au lieu d'avoir des couleurs plates
 
-## Ressources 
+## Ressources
 
 - [Règles CSS](https://www.w3schools.com/css/default.asp)
 - [Positionner des éléments en CSS](https://apprendre-html.3wa.fr/css-positionnement)

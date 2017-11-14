@@ -1,7 +1,8 @@
 
 # Markdown warm up
 
-Group exercice (2-3)
+- Group exercice (2-3)
+- help : [learn markdown](https://learnxinyminutes.com/docs/fr-fr/markdown/)
 
 ## Step 1 :
 1. One of the groupe creates a repository named : `markdown-warmup`

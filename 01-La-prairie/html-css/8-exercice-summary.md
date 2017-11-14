@@ -18,7 +18,7 @@
 
 ### Étape 1 : Git
 
-- Crée un dépôt sur GitHub nomé "starting-web-developpment"
+- Crée un dépôt sur GitHub nomé **starting-web-developpment"**
 - Cloner ce dépot sur votre ordinateur
 
 ### Étape 2 : HTML
@@ -35,16 +35,16 @@ Faire les actions suivantes dans le dossier **"starting-web-developpment"**
 
 - Dans **index.html** écrire du code HTML dont le résultat doit correspondre exactement à cette image ![Goal CSS](images/goal-html.png)
   - Lien vers la page Wikipedia de Tim Berners-Lee : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
-  - Pour avoir les icones utiliser ceci : 
+  - Pour avoir les icones utiliser ceci :
   ```html
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-  ``` 
+  ```
   - Pour choisir les icones rendez-vous chez [FontAwesome](http://fontawesome.io/icons/)
 
 ### Étape 3 : CSS
 
 - Faire de sorte que votre page ressemble à celle-ci ![Goal CSS](images/goal-css.png)
-- Pour avoir une jolie typographie utiliser ceci : 
+- Pour avoir une jolie typographie utiliser ceci :
 ```html
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700">
 ```
@@ -59,8 +59,8 @@ Faire les actions suivantes dans le dossier **"starting-web-developpment"**
 
 ### Étape 4 : Sauver avec Git
 
-- Faire un `add` 
-- Faire un `commit` 
+- Faire un `add`
+- Faire un `commit`
 - Faire un `push`
 - Aller sur votre profile GitHub pour vérifier les changements
 

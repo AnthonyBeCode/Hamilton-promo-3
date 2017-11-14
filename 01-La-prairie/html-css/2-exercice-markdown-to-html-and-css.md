@@ -5,7 +5,9 @@
 
 ## Instructions
 
-- Améliorer l'exercice "[De Markdown to HTML](1-exercice-markdown-to-html.md)" en y ajoutant un fichier "style.css" et en le colorisant à ta sauce
+Dans le repository **markdown-warmup-html**
+
+- Améliorer l'exercice "[De Markdown to HTML](1-exercice-markdown-to-html.md)" en y ajoutant un fichier `style.css` et en le colorisant à ta sauce.
 
 ## Outils colorimétric
 
