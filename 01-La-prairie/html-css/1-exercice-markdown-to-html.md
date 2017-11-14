@@ -16,8 +16,8 @@ Objectifs
 
 <h1>Instruction</h1>
 
-<li>Créer toi un repository GitHub `markdown-warmup-html</li>
-<li>Crée un fichier `index.html</li>
-<li>Convertis ce markdown en HTML dans le fichier `index.html</li>
+<li>Crée toi un repository GitHub <i>markdown-warmup-html</i></li>
+<li>Crée un fichier <i>index.html</i></li>
+<li>Convertis ce markdown en HTML dans le fichier <i>index.html</i></li>
 <li>Publie sur ton dépôt le fichier HTML</li>
 </body>
