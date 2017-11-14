@@ -25,16 +25,16 @@ To practice, launch the terminal by pressing CTRL + ALT + T simultaneously.
 
 - Then go to the [Desktop] folder by using the command that means "Change Directory".
 - Check that you are in the Desktop folder by using the command that means "Present Working Directory".
-- Creates a file 'file.txt'.
+- Creates a file `file.txt`.
 - Open the file in your editor (example if you use Atom: atom file.txt) and write a line of text with the first sentence that comes to mind and save it.
 - Created a directory [Octocat].
-- Go to the [Octocat] directory and create a 'yolo.md' file.
+- Go to the [Octocat] directory and create a `yolo.md` file.
 - Open the file and enter your name in it before saving it.
-- Create a second file, still in the same directory, named 'readme.md'.
+- Create a second file, still in the same directory, named `readme.md`.
 - Write inside a small text that talks about one or more personal projects that you would like to achieve, either during your training or in your life.
-- Also in [Octocat], create a new file that you named with your own first-name and with the extension 'md'. Inside, write a small text that would answer the question "Why be a learner at BeCode".
-- Deletes the file 'file.txt'
+- Also in [Octocat], create a new file that you named with your own first-name and with the extension `md`. Inside, write a small text that would answer the question "Why be a learner at BeCode".
+- Deletes the file `file.txt`
 - Displays the contents of the [Octocat] folder.
-- Create the directory [Skills] and create a file 'success.md' where you will list all your computer skills. This can be a list of programs you know and/or use, languages you know or would like to learn, things you can do (for example, make an animated gif), ...
+- Create the directory [Skills] and create a file `success.md` where you will list all your computer skills. This can be a list of programs you know and/or use, languages you know or would like to learn, things you can do (for example, make an animated gif), ...
 - Navigate in your folders to find the mouse you downloaded earlier.
-- Create the 'becode_projects' directory where you will put all your development projects during your time at BeCode.
+- Create the `becode_projects` directory where you will put all your development projects during your time at BeCode.
