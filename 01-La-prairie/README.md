@@ -23,7 +23,7 @@ Do the following exercice about markdown : [Markdown warm up](./markdown-warmup.
 - :fr: Exercice : [Cadavre exquis](git/exercice-git-cadavre-exquis.md) :uk: [Exquisite-corpse](git/exercice-git-exquisite-corpse.md)
 
 ## Discover the terminal
-- [Initiation to the terminal](./tools/initiation_terminal.md)
+- Initiation : :fr: [terminal](./tools/initiation_terminal.md) :uk: [terminal_initiation.md.md](./tools/terminal_initiation.md)
 
 ## Markdown, HTML and stuff
 - [Liste des exercices](html-css/README.md)
