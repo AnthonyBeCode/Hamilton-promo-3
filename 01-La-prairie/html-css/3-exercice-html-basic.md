@@ -4,7 +4,7 @@
 
 - Explorer le language HTML.
 
-- Être en capacité de convertir ensuite le markdown dans un fichier html publié sur ton repo dans le cadre du Meta Projet "Learning Environment".
+- Être en capacité de convertir ensuite le markdown dans un fichier html publié sur ton repo dans le cadre du Meta Projet `markdown-warmup-html`.
 
 ## Instructions de cet exercice
 
