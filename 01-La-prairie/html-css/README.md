@@ -1,5 +1,4 @@
 # Projet
-Créer un dossier au nom de l'exercice avec vos fichiers dedans.
 
 - N'oubliez pas de commenter votre code
 - N'oubliez pas de l'indenter
