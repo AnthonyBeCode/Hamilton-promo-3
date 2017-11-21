@@ -39,9 +39,9 @@ Le local est géré par l’ensemble des individus qui l’occupent. Une personn
 ### Respect des horaires, retards et absences
 
 - Horaires de la formation : du lundi au vendredi, de 9H00 à 17h00
-- Pause du matin : de 11h à 11h15
+- Pause du matin : de 10h30 à 10h45
 - Pause midi : de 12h30 à 13h30
-- Pause de l’après-midi : de 15h00 à 15h15
+- Pause de l’après-midi : de 15h30 à 15h45
 
 Je respecte les horaires de formation. A 9h00, la porte est fermée. Si tu es en retard, attends la pause de 11h00 pour rentrer.
 
