@@ -36,7 +36,7 @@ A collection of good practices;)
 
 Depending on your level, choose one of the reproduction exercises:
 - Reproduce in HTML and CSS [the OnePage 1 site design](onepager-1.jpg) by trying to make it as similar as possible.
-- Reproduce in HTML and CSS [the OnePage 2 site design](onepager-2.jpg) by trying to make it as similar as possible.
+- Reproduce in HTML and CSS [the OnePage 2 site design](onepager-2.png) by trying to make it as similar as possible.
 - Reproduce in HTML and CSS [the site design Activecollab](capture-fullpage.png) trying to make it as similar as possible.)
 
 ## Media Queries - Exercice 6

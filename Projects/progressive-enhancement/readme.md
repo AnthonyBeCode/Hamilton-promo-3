@@ -15,7 +15,7 @@ Concrètement, se poser la question: "*Ce bout de texte, c'est quoi : un titre ?
 googlebot (donc SEO organique) + Accessibilité (liseuses d'écran).
 Le googlebot est une calculatrice chargée de retourner à un humain les meilleurs résultats possibles pour ce qu'il a cherché (quelques mots). Elle analyse le contenu d'une page HTML en lisant les balises, ce qui lui permet de "comprendre" ce dont parle la page. Si celle-ci semble correspondre à la recherche, elle va la retourner à l'utilisateur sinon, pas.
 
-Par conséquent, si nos pages ne sont pas bien sémantiques, Google ne les montrera jamais, et vos sites n'auront pas de traffic. 
+Par conséquent, si nos pages ne sont pas bien sémantiques, Google ne les montrera jamais, et vos sites n'auront pas de traffic.
 
 > Findability Precedes Usability
 > In the Alphabet and on the Web.
@@ -24,12 +24,12 @@ Par conséquent, si nos pages ne sont pas bien sémantiques, Google ne les montr
 
 **À toi de jouer !**
 - Retranscris [ce document Texte](doc-le-paysan-chinois.txt) en sémantique HTML, donc en utilisant les bons blocs HTML (pas de `div` ni de `span`)  
-- Utilise les balises suivantes : `h1`, `h2`, `blockquote`, `q`, `img`, `p`, `img`, `hr`, `figure` et `caption`, `table`, `th`, `tr`, `td`, `ul` ou `ol` et `li`. 
+- Utilise les balises suivantes : `h1`, `h2`, `blockquote`, `q`, `img`, `p`, `img`, `hr`, `figure` et `caption`, `table`, `th`, `tr`, `td`, `ul` ou `ol` et `li`.
 - Retrouve, pour chacune de ces balises, l'origine de leur nom (c'est comme ça qu'on les retient). En cas de doute, cherche la réponse sur [html5doctor.com](http://html5doctor.com).
 - Ajoute deux ou trois liens de ton choix dans la page HTML via la balise `a`
-- Y-a-t-il une partie que l'on pourrait considérer comme une entête ? Si oui, regroupe la dans une balise `header`. 
+- Y-a-t-il une partie que l'on pourrait considérer comme une entête ? Si oui, regroupe la dans une balise `header`.
 - Et un pied de page ? Si oui, => balise `footer`
-- Mets toutes les instances des mots "Bien" et "Mal" dans une balise `span` , `em` ou `strong`. 
+- Mets toutes les instances des mots "Bien" et "Mal" dans une balise `span` , `em` ou `strong`.
 
 ### Les balises et les attributs
 Trop de sémantique tue la sémantique. La règle (comme souvent en programmation) est :  
@@ -40,7 +40,7 @@ Trop de sémantique tue la sémantique. La règle (comme souvent en programmatio
 
 De la sorte, en augmentant la sémantique des balises par des attributs, on a ainsi clarifié pour une machine qui est cet humain là. Remarque la syntaxe :
 
-``` <balise attribut="valeur">Contenu</balise> ``` 
+``` <balise attribut="valeur">Contenu</balise> ```
 
 **À toi de jouer !**
 - Rajoute l'attribut `Alt` aux images. À quoi sert cet attribut ?  
@@ -49,9 +49,9 @@ De la sorte, en augmentant la sémantique des balises par des attributs, on a ai
 - Fais en sorte que lorsqu'on clique sur les liens, la page s'ouvre dans un nouvel onglet du navigateur.  
 - Trouve l'attribut permettant d'afficher une petite boite de texte au survol des liens   
 ![Exemple](https://cdn.searchenginejournal.com/wp-content/uploads/2008/09/title-usability.jpg)
-	
+
 ## 2. CSS (Le look)
- 
+
 ### Les sélecteurs en CSS (part 1) : via la balise
 Contrôler l'aspect du texte : `font-style` (serif / sans-serif), `font-size`, `color`, `line-height`.
 
@@ -72,7 +72,7 @@ Une balise est rendue sous forme de "bloc". Tu peux contrôler les dimensions et
 - `margin` : l'espace autour du bloc, à l'extérieur de lui. Le margin distancie le bloc de son entourage.  
 
 **À toi de jouer !**
-- Donne au `body` une largeur maximum de 90% 
+- Donne au `body` une largeur maximum de 90%
 - Ensuite, centre le `body` en jouant avec la propriété `margin`  
 - Fais en sorte que les citations ne prennent en largeur que la moitié de la page   
 - En utilisant uniquement la propriété `margin`, positionne les citations au milieu.  
@@ -81,7 +81,7 @@ Une balise est rendue sous forme de "bloc". Tu peux contrôler les dimensions et
 - Ajoute une bordure à gauche de chaque citation, de 3px et de couleur brique    
 - Le texte des citations touche la bordure, ce n'est pas joli. Ajoute un espace de 30px entre la bordure et le texte de la citation.  
 - Fais en sorte que les citations aient un espace vide de 80 pixels au dessus et en dessous.  
-	
+
 #### Le background
 Le fond du bloc : `background-color`, `background-image`
 
@@ -89,15 +89,15 @@ Le fond du bloc : `background-color`, `background-image`
 - ajoute une couleur de fond à ton `body`
 - change la couleur de fond pour utiliser un dégradé de couleur (va sur [http://www.colinkeany.com/blend/](http://www.colinkeany.com/blend/))
 - ajoute une image de fond à ton `body`
-- fais en sorte que l'image ne se répète pas 
-- change son positionnement à `bottom right` 
+- fais en sorte que l'image ne se répète pas
+- change son positionnement à `bottom right`
 - change sa taille à `cover`
 
-### Les sélecteurs en CSS (part 2) : 
+### Les sélecteurs en CSS (part 2) :
 #### Les plus courants
 Le plus souvent, on sélectionne les éléments à styliser via l'attribut `class` (`.nom-de-la-classe`) et `id` (`#nom-de-lid`).  
 
-**À toi de jouer !** 
+**À toi de jouer !**
 
 En utilisant uniquement la balise comme sélecteur, mets toutes les citations en italique.  
 - Identifie les citations des villageois et celles du fermier en assignant à chacune une classe correspondante.
@@ -107,8 +107,8 @@ En utilisant uniquement la balise comme sélecteur, mets toutes les citations en
 **À toi de jouer !**
 
 - Sélectionne un élément du `header` et donne lui un fond jaune.
-Tous les autres sélecteurs : 
--  `+` et `>` 
+Tous les autres sélecteurs :
+-  `+` et `>`
 -  Sélectionner via l'attribut `[attribute]`
 -  Il y en a quelques autres. Pour te faire une idée de ce qu'ils permettent, va lire la petite [doc officielle](https://www.w3schools.com/cssref/css_selectors.asp), puis joue à [CSS Diner](http://flukeout.github.io/)
 
@@ -123,15 +123,15 @@ Tous les autres sélecteurs :
 - Au deuxième élément de la liste (les types de gens), joue avec `background-image` et `padding-right` pour faire apparaître l'image  ![mal](mal.png)  
 - Au troisième élément de la liste (les types de gens), joue avec `background-image` et `padding-right` pour faire apparaître l'image  ![chat](chat.png)  
 - Mets en gras le premier paragraphe
-		
+
 ### CSS de positionnement :  
-Comprendre le flux (display `inline`/`inline-block`/`block`) 
-- Théorie interactive : https://codepen.io/pixeline/pen/QvrbPv 
-- Exercice : un menu horizontal https://codepen.io/pixeline/pen/PmdPYL 
+Comprendre le flux (display `inline`/`inline-block`/`block`)
+- Théorie interactive : https://codepen.io/pixeline/pen/QvrbPv
+- Exercice : un menu horizontal https://codepen.io/pixeline/pen/PmdPYL
 - Exercice : une grille https://codepen.io/pixeline/pen/aWavWq  --  `float` va laisser le block flotter sur le block suivant (au lieu de le pousser à la ligne)--  Exercice : fais en sorte que le texte courre autour des images, en utilisant, sur les images, la propriété float (ajuste avec du margin pour distancier le texte de l'image).   --  sortir du flux: position `static` / `relative` / `absolute` / `fixed`   
 - la propriété `position` permet de positionner un élément n'importe où (via les propriétés `top` et `left`), à partir des coordonnées de son premier parent en position: relative ou static. [Expérimente via ce Pen](https://codepen.io/pixeline/pen/vmzNjw?).
 - Exercice : une [notification d'interface](https://codepen.io/pixeline/pen/dWqMxe)
-- Exercice : [position absolue](https://codepen.io/pixeline/pen/JNaKJv) 
+- Exercice : [position absolue](https://codepen.io/pixeline/pen/JNaKJv)
 - Plus d'informations sur le positionnement CSS : http://fr.learnlayout.com
 
 ## 3. Web fonts
@@ -142,15 +142,12 @@ Par défaut, le navigateur utilise les polices de caractères installées sur l'
 ## 4. Reset et Normalize
 - Élimine le css utilisé par défaut par les navigateurs (`reset.css`), ou pars sur une base normalisée (`normalize.css`)  
 
-## Du bon HTML ? 
+## Du bon HTML ?
 - Vérifie que ton HTML est **valide** via le [validateur du w3c](https://validator.w3.org/)
 - Vérifie que ton HTML permet **une bonne SEO organique**, via d'autres outils comme [Woorank (payant)](https://www.woorank.com/fr/)
 
-## Exercice pratique terminant ce sprint
-Sans aller voir le code source, reproduis le plus fidèlement possible les layouts suivants :    
-- [homepage de turlututu.com](turlututu.png)
 
 ## Bonus
 - Crée une version en HTML sémantique de ces documents et améliore la lisibilité en appliquant tout le css pour en améliorer le contenu. Cherche à produire un résultat favorisant la lecture, proche d'un article sur Medium :
-- [8 façons simples d’améliorer la typographie dans vos designs](doc-ameliorer-sa-typo.txt) 
+- [8 façons simples d’améliorer la typographie dans vos designs](doc-ameliorer-sa-typo.txt)
 - [Petit Guide Typographique](doc-guide-typographie.txt)

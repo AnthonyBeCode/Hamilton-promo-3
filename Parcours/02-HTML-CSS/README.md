@@ -1,5 +1,14 @@
 # HTML5 / CSS3
+
+### Learn CSS Layout
+
+- [Follow this tutorial about learning CSS layouts](learnlayout.md)
+
 *Do not forget to always save your exercises on your GitHub repository !*
+
+For each exercise create a repository named `HTML-CSS-Exercice-`*Num Of exercice*  for example : `HTML-CSS-Exercice-1`
+
+Do not forget to create a Github Page for each exercice
 
 ### Cours / Course :
 - [HTML5 Training](https://drive.google.com/open?id=1Ees4PrX8ebK05y8lgNLt7BK086CMFqPSn5LWR-lerkU)
