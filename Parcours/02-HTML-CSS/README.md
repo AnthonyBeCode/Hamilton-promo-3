@@ -11,6 +11,7 @@ For each exercise create a repository named `HTML-CSS-Exercice-`*Num Of exercice
 Do not forget to create a Github Page for each exercice
 
 ### Cours / Course :
+! Don't do the challenges 
 - [HTML5 Training](https://drive.google.com/open?id=1Ees4PrX8ebK05y8lgNLt7BK086CMFqPSn5LWR-lerkU)
 - [CSS3 Training : animations](https://drive.google.com/open?id=1_N73oaBMVlDy5VTumfxQHUeJ8rATvoAaHx_RXSprI4Y)
 
