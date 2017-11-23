@@ -29,7 +29,8 @@ Whenever you are not at BeCode whilst you are supposed to, you mustshow us a leg
 ## Briefings
 Here is a chronological list of projects, in the order they were tackled by your startup.
 
-1. [La-prairie](./01-La-prairie/)
+1. [La-prairie](./Parcours/01-La-prairie)
+2. [HTML-CSS](./Parcours/02-HTML-CSS)
 
 ## Resources
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
