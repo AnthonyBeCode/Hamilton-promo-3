@@ -32,7 +32,7 @@ Bonus : on rajoute un favicon mignon
 
 ## Reproduction en HTML/CSS - Exercice 5
 
-Avant toute chose, lisez [les Dix Commandements du HTML et du CSS !](Ten-Commandments-of-HTML-and-CSS-FR)!!
+Avant toute chose, lisez [les Dix Commandements du HTML et du CSS !](Ten-Commandments-of-HTML-and-CSS-FR.md)!!
 Un recueil des bonnes pratiques ;)
 
 Selon votre niveau, choisissez un des exercices de reproduction :
