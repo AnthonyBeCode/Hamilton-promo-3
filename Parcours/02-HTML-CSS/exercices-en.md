@@ -39,6 +39,8 @@ Depending on your level, choose one of the reproduction exercises:
 - Reproduce in HTML and CSS [the OnePage 2 site design](onepager-2.png) by trying to make it as similar as possible.
 - Reproduce in HTML and CSS [the site design Activecollab](capture-fullpage.png) trying to make it as similar as possible.)
 
+Resources: [Download images package](onepage-images.zip "Download resources package")
+
 ## Media Queries - Exercice 6
 
 Based on [an already existing site](exo-respons.zip), adapt it for smartphone and tablet screens.
