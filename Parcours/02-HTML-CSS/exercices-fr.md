@@ -40,8 +40,9 @@ Selon votre niveau, choisissez un des exercices de reproduction :
 - Reproduisez en HTML et CSS [le design du site OnePage 2](onepager-2.png) en essayant que ça soit le plus ressemblant possible.
 - Reproduisez en HTML et CSS [le design du site Activecollab](capture-fullpage.png) en essayant que ça soit le plus ressemblant possible.)
 
-## Media Queries - Exercice 5
 Ressources: [Télécharger le pack d'images](onepage-images.zip "Télécharger le pack de ressources")
+
+## Media Queries - Exercice 5
 
 ## Media Queries - Exercice 6
 
