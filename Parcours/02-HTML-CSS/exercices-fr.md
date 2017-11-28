@@ -44,8 +44,6 @@ Ressources: [Télécharger le pack d'images](onepage-images.zip "Télécharger l
 
 ## Media Queries - Exercice 5
 
-## Media Queries - Exercice 6
-
 Sur base d'[un site déjà existant](exo-respons.zip), adaptez-le pour les écrans de smartphone et de tablette.
 - Ne modifier que le fichier CSS
 - N'utiliser que le fichier CSS existant
