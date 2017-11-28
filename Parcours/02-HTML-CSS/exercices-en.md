@@ -25,11 +25,11 @@ Small constraints:
 
 Bonus: we add a cute favicon
 
-## Exercice 3 - CV en tableau
+## Exercice 3 - CV with tableau
 
 [A CV with tables](Training-table-en.md)
 
-## Reproduction en HTML/CSS - Exercice 5
+## Exercice 4 - Reproduction in HTML/CSS
 
 First of all, read [Ten Commandments of HTML and CSS !](Ten-Commandments-of-HTML-and-CSS-EN.md)
 A collection of good practices;)
@@ -39,7 +39,7 @@ Depending on your level, choose one of the reproduction exercises:
 - Reproduce in HTML and CSS [the OnePage 2 site design](onepager-2.png) by trying to make it as similar as possible.
 - Reproduce in HTML and CSS [the site design Activecollab](capture-fullpage.png) trying to make it as similar as possible.)
 
-## Media Queries - Exercice 6
+## Media Queries - Exercice 5
 
 Based on [an already existing site](exo-respons.zip), adapt it for smartphone and tablet screens.
 - Modify only the CSS file
