@@ -32,15 +32,18 @@ Bonus : on rajoute un favicon mignon
 
 ## Exercice 4 - Reproduction en HTML/CSS
 
-Avant toute chose, lisez [les Dix Commandements du HTML et du CSS !](Ten-Commandments-of-HTML-and-CSS-FR)!!
+Avant toute chose, lisez [les Dix Commandements du HTML et du CSS !](Ten-Commandments-of-HTML-and-CSS-FR.md)!!
 Un recueil des bonnes pratiques ;)
 
 Selon votre niveau, choisissez un des exercices de reproduction :
 - Reproduisez en HTML et CSS [le design du site OnePage 1](onepager-1.jpg) en essayant que ça soit le plus ressemblant possible.
-- Reproduisez en HTML et CSS [le design du site OnePage 2](onepager-2.jpg) en essayant que ça soit le plus ressemblant possible.
+- Reproduisez en HTML et CSS [le design du site OnePage 2](onepager-2.png) en essayant que ça soit le plus ressemblant possible.
 - Reproduisez en HTML et CSS [le design du site Activecollab](capture-fullpage.png) en essayant que ça soit le plus ressemblant possible.)
 
 ## Media Queries - Exercice 5
+Ressources: [Télécharger le pack d'images](onepage-images.zip "Télécharger le pack de ressources")
+
+## Media Queries - Exercice 6
 
 Sur base d'[un site déjà existant](exo-respons.zip), adaptez-le pour les écrans de smartphone et de tablette.
 - Ne modifier que le fichier CSS

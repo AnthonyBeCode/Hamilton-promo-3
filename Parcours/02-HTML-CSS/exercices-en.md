@@ -40,6 +40,8 @@ Depending on your level, choose one of the reproduction exercises:
 - Reproduce in HTML and CSS [the site design Activecollab](capture-fullpage.png) trying to make it as similar as possible.)
 
 ## Media Queries - Exercice 5
+Resources: [Download images package](onepage-images.zip "Download resources package")
+
 
 Based on [an already existing site](exo-respons.zip), adapt it for smartphone and tablet screens.
 - Modify only the CSS file
