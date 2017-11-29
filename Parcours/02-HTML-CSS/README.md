@@ -16,7 +16,7 @@ Do not forget to create a Github Page for each exercice
 - [CSS3 Training : animations](https://drive.google.com/open?id=1_N73oaBMVlDy5VTumfxQHUeJ8rATvoAaHx_RXSprI4Y)
 
 ### Exercices :
-- :fr: [List des exercises](exercices-fr.md)
+- :fr: [Liste des exercises](exercices-fr.md)
 - :uk: [List of exercises](exercices-en.md)
 
 ### Projet :
