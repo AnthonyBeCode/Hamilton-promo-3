@@ -9,7 +9,7 @@ If you want to make a more complete site with even more stuff, treat yourself!
 ### Composition of the website
 At a minimum:
 - A **Home page** with a Jumbotron component and two panels to display news (like promotions, news or events of the week)
-- A **Map page** with menus presented as a grouped list with badges (bootstrap badges)
+- A **Menu page** with menus presented as a grouped list with badges (bootstrap badges)
 - A **Photos page** with a photo gallery (minimum 10) and a pagination (3 photos by page)
 - A **Restaurants page** with address, access map and opening hours of at least two restaurants (it's a franchise!)
 - A **Contact page** with a contact form including last name, first name, e-mail, drop-down list (object of the message with a select and options)), a text field (for the message), a sending button with glyphicon. Put a label also on this page to indicate something
