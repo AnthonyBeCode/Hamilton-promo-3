@@ -12,7 +12,7 @@ EN: *Remember to always save your exercises on your GitHub repo!*
 
 ### Projet :
 - [Projet](projet.md) /FR
-- [Projet](procjet.md) /EN
+- [Project](project.md) /EN
 
 ### Ressources :
 
