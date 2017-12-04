@@ -1,6 +1,6 @@
 # Bootstrap
 
-FR: *N'oubliez pas de toujours sauvegarder vos exercices sur votre repo GitHub !*
+FR: *N'oubliez pas de toujours sauvegarder vos exercices sur votre repo GitHub !*<br>
 EN: *Remember to always save your exercises on your GitHub repo!*
 
 ### Cours :
