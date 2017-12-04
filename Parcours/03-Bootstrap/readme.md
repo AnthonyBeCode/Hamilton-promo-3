@@ -1,15 +1,18 @@
 # Bootstrap
 
-*N'oubliez pas de toujours sauvegarder vos exercices sur votre repo GitHub !*
+FR: *N'oubliez pas de toujours sauvegarder vos exercices sur votre repo GitHub !*
+EN: *Remember to always save your exercises on your GitHub repo!*
 
 ### Cours :
 - [Bootstrap Training](Bootstrap-Training.pdf)
 
 ### Exercices :
-- [Exercices](exercices.md)
+- [Exercices](exercices.md) /FR
+- [Exercices](exercices-EN.md) /EN
 
 ### Projet :
-- [Projet](projet.md)
+- [Projet](projet.md) /FR
+- [Projet](procjet.md) /EN
 
 ### Ressources :
 
