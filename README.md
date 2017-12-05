@@ -20,6 +20,19 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 Whenever you are not at BeCode whilst you are supposed to, you mustshow us a legal written justification : medical certificates when you are sick, on the day of your return.
 
+## Holidays
+
+|How is it called? | Dates |
+|---|---|
+| Educational Break (Swartz/Hamilton) | Friday 8/12/2017 | 
+| Christmas Holidays | From Monday 25/12/2017 to Friday 05/01/2018 | 
+| Eastern | Monday 02/04/2018 | 
+| Internship (Lovelace/Cycorp) | End of April 2018 | 
+| Labour Day | Tuesday 01/05/2018 | 
+| Ascension | Thursday 10/05/2018 | 
+| Pentecost Monday | Monday 21/05/2018 | 
+| Internship (Hamilton/Swartz) | June 2018 | 
+
 ## Teaching material
 
 - [Tutorials](/Tutorials) : These tutorials were designed to be done alone. They mix theory with practice, so as to help you grow quickly and reach a level where we can leave you to continue learning by doing on your own. They are created by your coaches. Never hesitate to follow them several times. Repetition is key.
