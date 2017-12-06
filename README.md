@@ -24,14 +24,14 @@ Whenever you are not at BeCode whilst you are supposed to, you mustshow us a leg
 
 |How is it called? | Dates |
 |---|---|
-| Educational Break (Swartz/Hamilton) | Friday 8/12/2017 | 
-| Christmas Holidays | From Monday 25/12/2017 to Friday 05/01/2018 | 
-| Eastern | Monday 02/04/2018 | 
-| Internship (Lovelace/Cycorp) | End of April 2018 | 
-| Labour Day | Tuesday 01/05/2018 | 
-| Ascension | Thursday 10/05/2018 | 
-| Pentecost Monday | Monday 21/05/2018 | 
-| Internship (Hamilton/Swartz) | June 2018 | 
+| Educational Break (Swartz/Hamilton) | Friday 8/12/2017 |
+| Christmas Holidays | From Monday 25/12/2017 to Friday 05/01/2018 |
+| Eastern | Monday 02/04/2018 |
+| Internship (Lovelace/Cycorp) | End of April 2018 |
+| Labour Day | Tuesday 01/05/2018 |
+| Ascension | Thursday 10/05/2018 |
+| Pentecost Monday | Monday 21/05/2018 |
+| Internship (Hamilton/Swartz) | June 2018 |
 
 ## Teaching material
 
@@ -44,6 +44,7 @@ Here is a chronological list of projects, in the order they were tackled by your
 
 1. [La-prairie](./Parcours/01-La-prairie)
 2. [HTML-CSS](./Parcours/02-HTML-CSS)
+2. [Bootstrap](./Parcours/03-Bootstrap)
 
 ## Resources
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
