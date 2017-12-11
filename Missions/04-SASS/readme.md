@@ -12,7 +12,7 @@ Create a repository named 'website-template-pro'
 
 All the pages need to share the same CSS file ine the SASS outpout so name you classes correctly.
 
-You have ressources on the zip file [images.zip](images)
+You have ressources on the zip file [images](images)
 
 - [home-main](home-main.png)
 - [home-minimal](home-minimal.png)
