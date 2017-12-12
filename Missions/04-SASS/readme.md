@@ -31,7 +31,7 @@ You have ressources on the zip file [images.zip](images.zip)
   * [blog-author](blog-author.png)
   * [home-blog-grig](home-blog-grig.png)
 * Shop
-  * [Home-Shop](home_shop.png)
+  * [Home-Shop](Home_shop.png)
 * Contact
   * [home-contact-us](home_contact-us.png)
 
