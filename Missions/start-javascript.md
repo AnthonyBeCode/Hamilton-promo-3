@@ -11,7 +11,7 @@
 
 - Learn to JavaScript like a pro
 
-Do the final exercice and in a repository called 'start-javascript`
+Do the final exercice and in a repository called `start-javascript`
   - [Apprenez a coder avec JavaScript](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript) :fr:
   - [Learn the basics of JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript) :gb:
 
