@@ -45,6 +45,7 @@ Here is a chronological list of projects, in the order they were tackled by your
 1. [La-prairie](./Parcours/01-La-prairie)
 2. [HTML-CSS](./Parcours/02-HTML-CSS)
 2. [Bootstrap](./Parcours/03-Bootstrap)
+2. [SASS](./Parcours/04-SASS)
 
 ## Resources
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
