@@ -16,5 +16,5 @@ Do the final exercice and in a repository called `start-javascript`
   - [Learn the basics of JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript) :gb:
 
 
-
+More information here : [Google Drive JS](https://goo.gl/6gQuBP)
 
