@@ -10,7 +10,7 @@ Info: the number of attempts is unlimited !
 * Écrivez une fonction appelée "guessLetter" cette fonction va ( EN : write a function called "guessLetter", this function will : )
     - Itérer à travers les lettres ( EN : iterate through each letter)
     - Voir si la lettre deviné se trouve dans le mot ( EN : check if the guessed letter is in the word )
-    - Si oui changer le tableau des lettres deviné pour ajouter la nouvelle lettre ( EN : )
+    - Si oui changer le tableau des lettres deviné pour ajouter la nouvelle lettre ( EN : if the letter is in the word, modify the array of guessed letters to make it contain the new letter )
     - Afficher dans la console les lettre devinés ( EN : display guessed letters in the console)
     - Le jeu doit savoir quand la partie est finie et féliciter le joueur ( EN : the game must know when the game is completed and congratulate the player )
 
