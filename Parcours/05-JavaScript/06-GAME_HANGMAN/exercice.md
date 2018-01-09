@@ -20,7 +20,7 @@ Info : le nombre d'essais est illimité
     - Si une lettre est entrée deux fois, ne rien faire.
     - compter le nombre de tentatives ratées
 
-# Exercise : hangman :uk:
+## Hangman :uk:
 
 Info: the number of attempts is unlimited !
 
