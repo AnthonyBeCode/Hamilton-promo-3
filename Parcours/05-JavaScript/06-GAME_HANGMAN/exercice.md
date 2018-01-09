@@ -19,4 +19,7 @@ Info: the number of attempts is unlimited !
     - Gardez en mémoire toutes les lettres devinées (bonnes et mauvaises) et seulement laisser l'utilisateur deviner une lettre une fois. 
     (EN : keep in memory each guessed letter ( both correct and incorrect ) and only allow players to guess each letter once )
     - Si une lettre est entrée deux fois, ne rien faire. ( EN : if a letter is entered twice, nothing happens)
-    - compter le nombre de tentatives ratés ( EN : count the number of failed attempts )
+    - compter le nombre de tentatives ratées ( EN : count the number of failed attempts )
+
+
+EN translation by Thomas, if any questions or suggestions for modifications , please share. Good luck
