@@ -1,15 +1,61 @@
+let item1 = "apples";
+let item2 = "oranges";
+let item3 = "raspberies";
 
-function hello(word = "world", secondParam = "someone else") {
-  return "hello " + word + " and " + secondParam;
+// let groceries = array(10);
+let groceries = [
+  "apples", // 0
+  "oranges", // 1
+  "rapsberies", // 1
+];
+
+groceries[3] = "brocoli";
+
+groceries.shift();
+groceries.unshift("cucumber");
+groceries.pop();
+groceries.push("tomatoes");
+
+groceries.splice(1, 0,"something");
+
+///let copyOfGroceries = groceries.slice(); // old
+let copyOfGroceries = [...groceries]; // new
+
+copyOfGroceries.unshift("hello world");
+
+copyOfGroceries.reverse();
+
+
+console.log( copyOfGroceries );
+
+
+
+console.log(doubles )
+
+console.log("groceries", groceries)
+console.log("copyOfGroceries", copyOfGroceries );
+
+/*
+for(let i = 0; i < groceries.length; i++){
+  console.log( groceries[i], i);
 }
+*/
+/*
 
-let yolo = hello("teddy"); // hello teddy and someone else
-let yolo1 = hello("imad"); // hello teddy and someone else
-let yolo2 = hello("laurent", "flavi"); // hello teddy and someone else
+groceries.forEach(function(value, iterator){
+  console.log(value, iterator);
+});
 
-let result = yolo + yolo1 + yolo2;
+*/
 
-console.log( result );
+// expected output: true
+
+//console.log();
+
+
+
+
+
 
 
 
