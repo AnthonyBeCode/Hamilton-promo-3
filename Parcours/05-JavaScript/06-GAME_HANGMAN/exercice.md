@@ -2,7 +2,7 @@
 # Exercise : hangman
 
 Info : le nombre d'essais est illimité
-Info: the number of attempts is limited !
+Info: the number of attempts is unlimited !
 
 * Créer un tableau pour contenir les lettres du mot : 'B','O','N','J','O','U','R', ( EN : Create an array that contains the letters: 'B','O','N','J','O','U','R', )
 * Créer un autre tableau pour mettre les lettres devinées : '_','_','_','_','_','_','_' ( EN : create another array that will hold the letters that need to be guessed )
