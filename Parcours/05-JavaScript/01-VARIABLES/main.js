@@ -1,5 +1,10 @@
 
 
+let resultMax = Math.max(-1, 3, 5, 9);
+let resultMin = Math.min(-1, 3, 5, 9);
+
+
+
 let result = Math.round(1.5);
 let roundUpper = Math.ceil(5.3);
 let roundDown = Math.floor(1.3);
