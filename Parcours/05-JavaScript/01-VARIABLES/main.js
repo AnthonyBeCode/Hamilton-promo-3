@@ -77,7 +77,8 @@ let something = lotOfMixedValuesAndOthers[2][2];
 // myFn();
 
 //let object = new Object();
-//
+
+/*
 let object = {}; // JSON object
 
 let lotOfMixedValuesObject = {
@@ -102,6 +103,35 @@ for ( let properties in lotOfMixedValuesObject ) {
   console.log( properties ) // name of the property
   console.log( lotOfMixedValuesObject[properties] ) // get value of the property
 }
+
+
+*/
+
+
+
+
+let myTrueBoolean = true;
+let myFalseBoolean = false;
+
+
+let myVariables = 0;
+
+if(myVariables !== true){
+  console.log("TRUE TRUE")
+} else {
+  console.log("FALSE FALSE")
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
