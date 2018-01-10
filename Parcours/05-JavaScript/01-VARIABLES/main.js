@@ -1,62 +1,30 @@
-let item1 = "apples";
-let item2 = "oranges";
-let item3 = "raspberies";
-
-// let groceries = array(10);
-let groceries = [
-  "apples", // 0
-  "oranges", // 1
-  "rapsberies", // 1
-];
-
-groceries[3] = "brocoli";
-
-groceries.shift();
-groceries.unshift("cucumber");
-groceries.pop();
-groceries.push("tomatoes");
-
-groceries.splice(1, 0,"something");
-
-///let copyOfGroceries = groceries.slice(); // old
-let copyOfGroceries = [...groceries]; // new
-
-copyOfGroceries.unshift("hello world");
-
-copyOfGroceries.reverse();
 
 
-console.log( copyOfGroceries );
+let result = Math.round(1.5);
+let roundUpper = Math.ceil(5.3);
+let roundDown = Math.floor(1.3);
 
 
 
-console.log(doubles )
+let fruits = ["apple","orange","banana"];
+console.log(fruits);
 
-console.log("groceries", groceries)
-console.log("copyOfGroceries", copyOfGroceries );
+for (let i = 0; i < 10; i++) {
+  let rndNumber = Math.random() * fruits.length;
+  //let roundedNumber = Math.round( rndNumber );
+  let roundedNumber = Math.floor( rndNumber );
 
-/*
-for(let i = 0; i < groceries.length; i++){
-  console.log( groceries[i], i);
+  console.log( fruits[roundedNumber], rndNumber, roundedNumber )
 }
-*/
+
+
+
 /*
 
-groceries.forEach(function(value, iterator){
-  console.log(value, iterator);
-});
+console.log( result )
+console.log( roundUpper )
+console.log( roundDown )
+
+
 
 */
-
-// expected output: true
-
-//console.log();
-
-
-
-
-
-
-
-
-
