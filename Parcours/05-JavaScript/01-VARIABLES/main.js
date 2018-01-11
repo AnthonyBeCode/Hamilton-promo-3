@@ -105,7 +105,7 @@ for ( let properties in lotOfMixedValuesObject ) {
 }
 
 
-*/
+
 
 
 
@@ -121,7 +121,110 @@ if(myVariables !== true){
 } else {
   console.log("FALSE FALSE")
 }
+*/
 
+/*
+let value = prompt("What is the right price ?");
+
+let next = prompt("It is not"+value+" it is higher");
+*/
+
+/*
+class Obj {
+  constructor(){
+    this.a = "yolo";
+    this.b = "world";
+  }
+}
+
+class Objet2 extends Obj {
+  constructor(){
+    super();
+    this.c = "Hola";
+  }
+  sayHello(){
+    console.log("plouf");
+  }
+}
+
+let instance = new Obj();
+let instance2 = new Objet2();
+
+console.log(instance)
+console.log(instance2)
+
+
+*/
+
+
+// recursive
+//
+/*
+let count = 0;
+
+let increase = function(){
+  count++; // +1
+  console.log(count)
+  if(count < 10){
+    increase();
+  }
+}
+
+increase();
+*/
+
+
+console.log( document )
+//console.dir( document )
+
+
+let h1s = document.getElementsByTagName("h1");
+let h1First = document.getElementById("the-first");
+
+console.log( h1s );
+console.dir( h1First );
+
+let hamilton = document.getElementsByClassName("hamilton");
+
+console.log( hamilton )
+
+for (var i = 0; i < hamilton.length; i++) {
+  hamilton[i].innerText = "<h2>yolo</h2>";
+  //hamilton[i].innerHTML = "<h2>yolo</h2>";
+
+  hamilton[i].style.backgroundColor = "red";
+  hamilton[i].style["background-color"] = "red";
+
+  ///hamilton[i].style.background-color = "red";
+
+  //console.log(  hamilton[i].style["background"] )
+  //hamilton[i].style.backgroundColor = "#000";
+}
+
+
+
+//h1First.innerText = "Hello world tooo";
+
+
+//let h1First = document.getElementById("the-first"); // old
+let h1FirstLikeCss = document.querySelector("#the-first"); // new slower
+//let likeCssClass = document.querySelector(".the-first");
+let hamiltonLikeCss = document.querySelectorAll(".hamilton"); // new slower
+
+let recipient = document.getElementById("recipient");
+
+let classes = ["one","two","three"]
+for (var i = 0; i <10; i++) {
+  let newElements = document.createElement("div");
+  newElements.innerText = "hello world";
+  //newElements.className = "superClass"; // old
+  newElements.classList.add(classes[i]); // new
+  console.log( newElements.classList )
+  recipient.appendChild( newElements )
+}
+
+
+console.log( newElements )
 
 
 
