@@ -1,4 +1,3 @@
-l## JavaScript
-
+## JavaScript
 
 Lire le briefing [exercices](exercices.md)
