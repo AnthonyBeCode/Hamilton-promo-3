@@ -28,13 +28,13 @@ Utiliser la console **ou** les fonctions natives suivantes :
 Create the following variables:
 
 * Variable to store the message that will be displayed
-* Variable to store the number of attempt
+* Variable to store the number of attempts
 * Variable to store the minimal value that the user can insert (here: 20)
 * Variable to store the maximal value that the user can insert (here: 80)
 
 Create the following functions:
 
-* Create a function that returns the random rounded number between the minimum and maximum variable.
+* Create a function that returns a random rounded number between the minimum and maximum variable.
 * Create a function
     - which takes an argument to test if the number you entered is the right one.
-    - the function returns one of these 3 messages: `It's more`, `it's less`, `It's right, you found in X attempts`
+    - the function returns one of these 3 messages: `It's more`, `it's less`, `It's right, you found it in X attempts`
