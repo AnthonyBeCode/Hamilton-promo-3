@@ -1,7 +1,7 @@
 # Exercice
 
 ## Français :fr:
-(English version os below)
+(English version is below)
 
 ### Exercice 1: PNJ (Personnage non-joueur)
 
