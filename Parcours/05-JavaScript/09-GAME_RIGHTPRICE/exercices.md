@@ -42,3 +42,11 @@ Create the following functions:
 * Create a function
     - which takes an argument to test if the number you entered is the right one.
     - the function returns one of these 3 messages: `It's more`, `it's less`, `It's right, you found it in X attempts`
+
+
+Use the console **or** the following native functions:
+
+- window.prompt();
+- window.alert();
+- window.confirm();
+
