@@ -3,7 +3,6 @@
 
 ## Juste prix :fr:
 
->>>>>>> origin/master
 Déclarez les variables suivantes :
 
 * Variable qui sera utilisée pour afficher un message
