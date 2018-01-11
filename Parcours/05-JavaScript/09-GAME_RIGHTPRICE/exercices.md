@@ -37,4 +37,4 @@ Create the following functions:
 * Create a function that returns the random rounded number between the minimum and maximum variable.
 * Create a function
     - which takes an argument to test if the number you entered is the right one.
-		- the function returns one of these 3 messages: `It's more`, `it's less`, `It's right, you found in X attempts`
+    - the function returns one of these 3 messages: `It's more`, `it's less`, `It's right, you found in X attempts`
