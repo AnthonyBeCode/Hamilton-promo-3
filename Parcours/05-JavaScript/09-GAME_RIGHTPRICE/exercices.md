@@ -29,8 +29,8 @@ Create the following variables:
 
 * Variable to store the message that will be displayed
 * Variable to store the number of attempt
-* Variable to store the minimal value that the user can insert
-* Variable to store the maximal value that the user can insert
+* Variable to store the minimal value that the user can insert (here: 20)
+* Variable to store the maximal value that the user can insert (here: 80)
 
 Create the following functions:
 
