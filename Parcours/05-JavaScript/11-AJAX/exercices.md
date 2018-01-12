@@ -1,7 +1,7 @@
 
 # /!\ Utilise Firefox pour cet exercice !
 
-# avec les fonctions des tableaux
+## Avec les fonctions des tableaux
 
 1. charger le fichier "data.json"
     - `tip : xmlHttpRequest`
