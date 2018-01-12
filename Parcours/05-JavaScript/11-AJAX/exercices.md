@@ -18,7 +18,7 @@
     - `tip : sort()`
 7. afficher le plus petit score
     - `tip : sort()`
-8. montrer ces données dans le fichier HTML en utilisant `creatElement`
+8. montrer les différentes données dans le fichier HTML en utilisant `createElement`
 
 
 ### Ressources
