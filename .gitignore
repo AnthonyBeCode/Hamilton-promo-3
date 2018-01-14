@@ -2,6 +2,7 @@
 bin/
 bin-debug/
 bin-release/
+Parcours/06-jQuery
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
 
