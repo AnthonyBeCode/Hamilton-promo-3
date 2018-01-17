@@ -15,6 +15,3 @@ Do the final exercice and in a repository called `start-javascript`
   - [Apprenez a coder avec JavaScript](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript) :fr:
   - [Learn the basics of JavaScript](https://openclassrooms.com/courses/learn-the-basics-of-javascript) :gb:
 
-
-More information here : [Google Drive JS](https://goo.gl/6gQuBP)
-
