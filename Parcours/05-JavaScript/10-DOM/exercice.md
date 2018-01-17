@@ -53,7 +53,7 @@
 - sélectionner le premier lien dans le 'li' précedement crée
 - avec la propriété `style` change la couleur de texte de ce lien
 
-## EXERCICE 4 : Création et suppression de plusieurs éléments
+## EXERCICE 5 : Création et suppression de plusieurs éléments
 
 - sélectionner le premier élément 'ol'
 - faire une boucle sur tous les enfants de ce dernier grâce à sa propriété `children`
