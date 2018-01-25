@@ -30,7 +30,7 @@ For this, you must use all the technos seen from the beginning, ie:
 - the project description
 - the names of the members of the team
 
-** Using a kanban **
+**Using a kanban**
 
 Use the [Projects] tab of your repo to create and organize your work with this:
 ![Kanban](https://github.com/becodeorg/BeCode/blob/master/img/kanban.jpg)
@@ -48,36 +48,36 @@ You will realize, as a group, a website for renting and selling films. WARNING, 
 When entering the site, you must **force the user to indicate his age**.
 If he is 18 or older, allow him to enter the site, otherwise redirect him to IMDB. (For this use JS or jQuery for a pop-up).
 
-Once on the site, display anywhere on the site a box for the **warning of cookies**. (we see lately all over the internet)
-  When you click on the [login or register] buttons, display a login form in JS or jQuery in a box. (see the website http://www.commeaucinema.com)
-  This login form will contain:
-  - identifier,
-  - password,
-  - a [OK] button,
-  - a [Create an account] button,
-  - a [stay connected],
-  - a link [If you have forgotten your password],
-  - and a link [cancel].
-  For the register form
-  - name
-  - E-mail
-  - Password
-  - Confirm password
-  - General conditions of use [select button]
-  - Register button
+Once on the site, display anywhere on the site a box for the **warning of cookies**. (we see lately all over the internet). When you click on the [login or register] buttons, display a login form in JS or jQuery in a box. (see the website http://www.commeaucinema.com)
+This login form will contain:
+- identifier,
+- password,
+- a [OK] button,
+- a [Create an account] button,
+- a [stay connected],
+- a link [If you have forgotten your password],
+- and a link [cancel].
+
+For the register form
+- name
+- E-mail
+- Password
+- Confirm password
+- General conditions of use [select button]
+- Register button
 
 (Difficulty: make the form disappear when you click on CANCEL, on the form or the register button, and vice versa).
 
 ### Menu
-A ** menu ** in bootstrap with submenus. (**Hamburger menu for responsive**).
+A **menu** in bootstrap with submenus. (**Hamburger menu for responsive**).
 
 Since it's a onepage, the links in the menu should point to the dedicated sections.
 
 ### On your mind
-The ** jumbotron ** of the header must be 100% of the width of the screen in which there is a slide (Cf layout). Make the ** slide ** work in CSS or JS or jQuery)
+The **jumbotron** of the header must be 100% of the width of the screen in which there is a slide (Cf layout). Make the **slide** work in CSS or JS or jQuery)
 
 ### The social networks buttons
-The ** social network buttons ** are in a fixed position. If you click on a button, it must lengthen with an animation (here just use CSS).
+The **social network buttons** are in a fixed position. If you click on a button, it must lengthen with an animation (here just use CSS).
 
 ### Movies Section
 Each film must include:
@@ -98,7 +98,7 @@ When you click on the "plus movies" button, show the other hidden movies. Remove
 Use the two small buttons on the right to scroll the movies from left to right and aim-versa (Jquery, bootstrap, JS choice)
 
 ### Section Contact Us
-Create a form and display in a
+Create a form and display in a pop-up 
 the entries of the form when clicking on "Send Message". (No treatment in php, soon promised)
 
 Bonus: put a map in the Contact us section.
