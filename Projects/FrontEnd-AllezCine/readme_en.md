@@ -120,9 +120,9 @@ Make a website on a character of your choice (TV series, movie, video game, ...)
 Minimum 5 pages with:
 - **Presentation**
 - **Biography**
-- ** Photographs ** (Photo Gallery of the characters),
-- ** Goodies ** (Derivatives purchase simulation page),
-- ** Contact ** (I do not make you a drawing)
+- **Photographs** (Photo Gallery of the characters),
+- **Goodies** (Derivatives purchase simulation page),
+- **Contact** (I do not make you a drawing)
 
 **NOT OBLIGATORY BONUS**: Instead of 5 pages, make 5 tabs and make this site on one web page.
 
