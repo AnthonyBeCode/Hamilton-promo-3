@@ -52,6 +52,7 @@ S’il a 18 ans et plus, l’autoriser à entrer sur le site, sinon le rediriger
 Une fois sur le site, faire apparaître n’importe où sur le site une box pour la **mise en garde de cookies**. (on en voit ces derniers temps partout sur le net)
 
  Lorsqu’on clique sur les boutons [login ou register], faire apparaître en JS ou jQuery dans une box un formulaire de connexion. (voir le site http://www.commeaucinema.com)
+ 
  Ce formulaire de connexion contiendra :
  - identifiant,
  - password,
@@ -60,6 +61,7 @@ Une fois sur le site, faire apparaître n’importe où sur le site une box pour
  - un [rester connecté],
  - un lien [Si vous avez oublié votre mot de passe],
  - et un lien [cancel].
+ 
  Pour le formulaire register
  - nom
  - E-mail
@@ -100,8 +102,7 @@ Lorsqu’on clique sur le bouton “plus des films”, afficher les autres films
 Utiliser les deux petits boutons à droite pour faire défiler les films de gauche à droite et vise-versa (Jquery, bootstrap, JS au choix)
 
 ### Section Contact Us
-Créer un formulaire et afficher dans un
-les entrées du formulaire lorsqu’on clique sur “Send Message”. (Pas de traitement en php, prochainement promis)
+Créer un formulaire et afficher dans un pop-up les entrées du formulaire lorsqu’on clique sur “Send Message”. (Pas de traitement en php, prochainement promis)
 
 Bonus : mettre une map dans la section Contact us.
 
