@@ -188,14 +188,14 @@ $user = array (
 **Note 1**:  there is only one instruction here (one semicolon ;).
 I could have written everything on the same line, but nothing stops me from seperating this on several lines to improve the readability.
 
-**Note 2**: remarque qu'on écrit une flèche (`=>`) pour dire « associé à ». Par exemple, on dit « ville » associée à « Bruxelles ».
+
 
 **Note 2**: notice that we write an arrow (`=>`) to state « related with ». For instance, we say « city » related with « Brussels ».
 
 So, to display a story's (floor) content, it's more intuitive:
 
 ```php
-echo $utilisateur['ville'];
+echo $user['firstname'];
 ```
 
 #### Exercise
