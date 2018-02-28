@@ -1,45 +1,45 @@
-# Challenge PHP
+# PHP Challenge
 
-Nous avons vu du CRUD avec l'activité [randonnée](../php-training-mysql).
+We learned the CRUD principles with the [hiking](../php-training-mysql) activity.
 
-Certaines actions du CRUD ne doivent pas être accessibles par n'importe qui : comme la mise à jour, la création et la suppression.
+Certain CRUD actions shouldn't be accessible by anyone: such as creating, updating or deleting.
 
-Dans ce challenge, nous allons mettre en place une protection sur nos pages *create.php, update.php, delete.php* de l'activité [randonnée](../php-training-mysql), pour laisser l'utilisation de ces fonctionnalités uniquement à des personnes enregistrées en base de données (les utilisateurs de confiance).
+With this exercise, we will add some protection to the pages *create.php, update.php, delete.php* of the [hiking](../php-training-mysql) activity. We will make these functionalities only available to users registered in the database (trusted users).
 
-# Comment ça marche
+# How does it work
 
-Avant tout, sachez que pour pouvoir faire cela, il faudra savoir utiliser les sessions en PHP. Ce [petit tutoriel](http://www.lephpfacile.com/cours/18-les-sessions) vous explique comment fonctionne les sessions et aussi le principe d'une page connexion et de déconnexion.
+First of all, you should know that to be able to do this, you will need to know how to use PHP sessions. This [short tutorial](http://www.lephpfacile.com/cours/18-les-sessions) explains how sessions work and also describes the principle of login and logout pages.
 
-# Insérer des utilisateurs
+# Inserting users
 
-Pour s'identifier, il faut déjà avoir des utilisateurs en base de données.
+To identify them, there have to be users in the database.
 
-Avec phpmyadmin, ajoutez des utilisateurs en base de données.
+With phpmyadmin, add users to the database.
 
-# Protections des pages
+# Page Protection
 
-Au début de chaque page *create.php*, *update.php*, *delete.php* vérifiez que l'utilisateur soit connecté.
+At the beginning of each *create.php*, *update.php*, *delete.php* page, verify if the user is logged in.
 
-Pour faire cela c'est très simple. En se connectant vous avez dû enregistrer les informations de l'utilisateur dans une variable de session. Il suffit maintenant d'aller vérifier que la variable de session existe pour savoir si l'utilisateur est valide !
+Doing this is pretty simple. By logging in you had to save the user information to the session variable. This means it's now enough to check if the session variable exists to know if the user is valid. !
 
-TIPS : Créer une fonction pour pouvoir la réutiliser au début de chaque page concernée.
+TIPS : Create a function you can reuse at the beginning of each page.
 
-> C'est un peu léger comme protection mais c'est pour que vous compreniez le principe.
+> Note that this is a very weak protection, but it's so you understand the principle.
 
-# ALLER PLUS LOIN
+# GO DEEPER
 
-Si vous regardez dans la base de données, vous verrez que les mots de passes sont stockés en "clair", on peut les lire. Pas top pour la sécurité.
-Il va falloir crypter le mot de passe ! Sachez qu'il y a des fonctions faites pour ça. Pour commencer, on va utiliser la fonction [sha1()](http://php.net/manual/fr/function.sha1.php)
+If you take a look at the database, you'll see that the passwords are stored as "clear" values, you can read them. This is not the most secure solution.
+We will have to encrypt the passwords ! Know that there are functions which will do this for you. We will use the [sha1()](http://php.net/manual/fr/function.sha1.php) function.
 
-Il faudra crypter le mot de passe dans la base de données. Dans phpmyadmin, lorsque vous entrez/éditer une ligne, vous pouvez voir la colonne *FONCTION*. Dans cette colonne, vous choisissez *SHA1*. Après avoir effectué cela, vous pouvez voir que le mot de passe est une succession de chiffres et de lettres.
+The password will have to be encrypted in the database. In phpmyadmin, when you add/edit a line, you can see the *FUNCTION* column. In this column you choose *SHA1*. After executing this, you can see that the password is a succession of numbers and letters.
 
-Vous allez me dire qu'il y a un problème. Car lors de la connexion de l'utilisateur on compare le mot de passe avec ce qu'il y a dans le champ *password* de notre base de données et c'est clairement plus la même chose.
+You're going to tell me there's a problem. Because when the user logs in, we compare the password with what's in the *password* field of our database and it's clearly not the same anymore.
 
-Vous avez raison. C'est pourquoi, lors de la connexion, on utilise la fonction ```sha1()``` avec comme paramètre le mot de passe entrée par l'internaute. À cette fonction, si on lui passe le même paramètre, elle retourne le même résultat.
+You have a point. This is why, when logging in, the function  ```sha1()``` is used with the password entered by the user as a parameter. If you pass the same parameter to this function, it returns the same result.
 
-Pour résumer, dans le fichier qui vérifie les identifiants et les mots de passes, au moment de comparer les mots de passes il suffit d'utiliser la fonction ```sha1()```
+To summarize, in the file that verifies users and passwords, it is enough to use the function ```sha1()``` to compare the passwords.
 
-Par exemple :
+For example :
 
 ```php
 //request to find the user in database
