@@ -31,7 +31,7 @@ Whenever you are not at BeCode whilst you are supposed to, you mustshow us a leg
 | Labour Day | Tuesday 01/05/2018 |
 | Ascension | Thursday 10/05/2018 |
 | Pentecost Monday | Monday 21/05/2018 |
-| Internship (Hamilton/Swartz) | June 2018 |
+| Internship (Hamilton/Swartz) | 4th June 2018 |
 
 ## Teaching material
 
