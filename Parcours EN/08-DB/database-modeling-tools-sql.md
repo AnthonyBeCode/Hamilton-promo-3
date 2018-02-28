@@ -1,12 +1,12 @@
-#Database Modeling Tools (SQL)
+# Database Modeling Tools (SQL)
 
-##Conceptual Data Model (CDM)
+## Conceptual Data Model (CDM)
 
 A CDM allows you to visualize your database and the relationships between tables.
 
 In general, there is a way to connect it to your local server and apply the changes of your template to the database. It can also automatically generate the SQL code needed to create your database.
 
-##Free MCD Software
+## Free MCD Software
 
 * [MySql Workbench](https://www.mysql.com/products/workbench/)  is the standard: free, versatile but sometimes buggy and the interface is not very intuitive.
 To install: `sudo apt-get install mysql-workbench`
