@@ -6,11 +6,11 @@
 
 ## Tutorials / Lessons
 
-- [Introduction to MySQL](https://docs.google.com/presentation/d/1yXQz5dMMDkdSu5eBOG7YS2UH2uWyg5vJmU0kJt6YR6Q/edit?usp=sharing) - DB, phpMyAdmin and SQL
+- [Introduction to MySQL](https://docs.google.com/presentation/d/1hHX4lXuyRvciIvs613N29j-hWV4wth_ZhM6n9xQI7D4/edit) - DB, phpMyAdmin and SQL
 - [Lesson : SoloLearn SQL](https://www.sololearn.com/Course/SQL/) - to learn SQL language, which is whispering in the ears of database :)
-- [Introduction to PDO](https://docs.google.com/presentation/d/14-5BGNJyuILB2kfYlxzsaFDRNA8zCrot9DbYVVNo3X4/edit?usp=sharing) - connection to the DB, multiple tables and join tables
+- [Introduction to PDO](https://docs.google.com/presentation/d/1Ktrto7cYI7hu6l32ImfffXcCzP6xoWRTQI-2CTWUbro/edit) - connection to the DB, multiple tables and join tables
 - [Connection to the DB with PDO, MySQL and prepared requests](https://github.com/becodeorg/Hamilton-promo-3/blob/master/Parcours%20EN/08-DB/Pratice-and-use-of-PDO.md)
-- [Introduction to relational databases](https://docs.google.com/presentation/d/1pPVFVr72xmmGpHFSKbF6ZL9QblwfX5MWaViXlnY3w2I/edit?usp=sharing) - multiple tables and join tables
+- [Introduction to relational databases](https://docs.google.com/presentation/d/1BL4tZ-ibiL1su1YZf5k2w-LMLJInUhUWaJE7oC77ovQ/edit) - multiple tables and join tables
 - [Wiki on CDM (Conceptual data models) and tools to create them](database-modeling-tools-sql.md)
 - [Transactions](transaction-with-mysql-and-pdo.md): either all requests are executed or none are executed.
 - [Manipulate a form in an efficient way](backend-process-a-form.md)
