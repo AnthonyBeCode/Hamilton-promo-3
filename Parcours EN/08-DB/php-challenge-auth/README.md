@@ -6,17 +6,17 @@ Certain CRUD actions shouldn't be accessible by anyone: such as creating, updati
 
 With this exercise, we will add some protection to the pages *create.php, update.php, delete.php* of the [hiking](../php-training-mysql) activity. We will make these functionalities only available to users registered in the database (trusted users).
 
-# How does it work
+## How does it work
 
-First of all, you should know that to be able to do this, you will need to know how to use PHP sessions. This [short tutorial](http://www.lephpfacile.com/cours/18-les-sessions) explains how sessions work and also describes the principle of login and logout pages.
+First of all, you should know that to be able to do this, you will need to know how to use PHP sessions. This [short tutorial](http://html.net/tutorials/php/lesson12.php) explains how sessions work and also describes the principle of login and logout pages.
 
-# Inserting users
+## Inserting users
 
 To identify them, there have to be users in the database.
 
 With phpmyadmin, add users to the database.
 
-# Page Protection
+## Page Protection
 
 At the beginning of each *create.php*, *update.php*, *delete.php* page, verify if the user is logged in.
 
@@ -26,10 +26,10 @@ TIPS : Create a function you can reuse at the beginning of each page.
 
 > Note that this is a very weak protection, but it's so you understand the principle.
 
-# GO DEEPER
+## GO DEEPER
 
 If you take a look at the database, you'll see that the passwords are stored as "clear" values, you can read them. This is not the most secure solution.
-We will have to encrypt the passwords ! Know that there are functions which will do this for you. We will use the [sha1()](http://php.net/manual/fr/function.sha1.php) function.
+We will have to encrypt the passwords ! Know that there are functions which will do this for you. We will use the [sha1()](http://php.net/manual/en/function.sha1.php) function.
 
 The password will have to be encrypted in the database. In phpmyadmin, when you add/edit a line, you can see the *FUNCTION* column. In this column you choose *SHA1*. After executing this, you can see that the password is a succession of numbers and letters.
 
