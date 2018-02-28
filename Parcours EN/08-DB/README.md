@@ -12,7 +12,7 @@
 - [Connection to the DB with PDO, MySQL and prepared requests](https://github.com/becodeorg/Hamilton-promo-3/blob/master/Parcours%20EN/08-DB/Pratice-and-use-of-PDO.md)
 - [Introduction to relational databases](https://docs.google.com/presentation/d/1pPVFVr72xmmGpHFSKbF6ZL9QblwfX5MWaViXlnY3w2I/edit?usp=sharing) - multiple tables and join tables
 - [Wiki on CDM (Conceptual data models) and tools to create them](database-modeling-tools-sql.md)
-- [Transactions](https://openclassrooms.com/courses/les-transactions-avec-mysql-et-pdo) : either all requests are executed or none are executed.
+- [Transactions](transaction-with-mysql-and-pdo.md): either all requests are executed or none are executed.
 - [Manipulate a form in an efficient way](backend-process-a-form.md)
 
 ## Exercices
