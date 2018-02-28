@@ -1,44 +1,46 @@
-# PDO - Partie 1 : Lire des données
+# PDO - Part 1 : Reading data
 
-**Exécuter le script colyseum.sql avant de commencer. Tous les résultats devront être afficher dans une page index.php.**
+**Execute the script colyseum.sql before starting! All the results should be displayed on an index.php page.**
 
-## Exercice 1
 
-Afficher tous les clients.
+## Exercise 1 
 
-## Exercice 2
+Display all the clients.
 
-Afficher tous les types de spectacles possibles.
+## Exercise 2
 
-## Exercice 3
+Display all the possible show types.
 
-Afficher les 20 premiers clients.
+## Exercise 3
 
-## Exercice 4
+Display the first 20 clients.
 
-N'afficher que les clients possédant une carte de fidélité.
+## Exercise 4
 
-## Exercice 5
+Only display clients which own a loyalty card.
 
-Afficher uniquement le nom et le prénom de tous les clients dont le nom commence par la lettre "M".
+## Exercise 5
 
-Les afficher comme ceci :
+Only display the name and surname of all the clients whos surname starts by the letter "M".
 
-    Nom : *Nom du client*
-    Prénom : *Prénom du client*
+Display them like this :
+``` 
+   Surname: *Client's Surname*
+   Name: *Client's Name*
+```
+Order them alphabetically.
 
-Trier les noms par ordre alphabétique.
+## Exercise 6
 
-## Exercice 6
+Display the title of all the shows with the artist, time and date. Sort the titles alphabetically. Display the results like so: `Show` by `artist`, the `date` at `time`.
 
-Afficher le titre de tous les spectacles ainsi que l'artiste, la date et l'heure. Trier les titres par ordre alphabétique. Afficher les résultat comme ceci : `Spectacle` par `artiste`, le `date` à `heure`.
+## Exercise 7
 
-## Exercice 7
-
-Afficher tous les clients comme ceci :
-
-    Nom : *Nom de famille du client*
-    Prénom : *Prénom du client*
-    Date de naissance : *Date de naissance du client*
-    Carte de fidélité : *Oui (Si le client en possède une) ou Non (s'il n'en possède pas)*
-    Numéro de carte : *Numéro de la carte fidélité du client s'il en possède une.*
+Display all the clients like so:
+```
+   Surname: *Client's Surname*
+   Name: *Client's Name*
+   Date of birth: *Client's date of birth*
+   Loyalty card: * Yes/No (Depending if the client owns one or not)*
+   Loyalty card number: *Client's loyalty card number if he owns one*
+```
