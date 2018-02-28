@@ -11,7 +11,7 @@
 - [Introduction to PDO](https://docs.google.com/presentation/d/14-5BGNJyuILB2kfYlxzsaFDRNA8zCrot9DbYVVNo3X4/edit?usp=sharing) - connection to the DB, multiple tables and join tables
 - [Connection to the DB with PDO, MySQL and prepared requests](https://github.com/becodeorg/Hamilton-promo-3/blob/master/Parcours%20EN/08-DB/Pratice-and-use-of-PDO.md)
 - [Introduction to relational databases](https://docs.google.com/presentation/d/1pPVFVr72xmmGpHFSKbF6ZL9QblwfX5MWaViXlnY3w2I/edit?usp=sharing) - multiple tables and join tables
-- [Wiki on CDM (Conceptual data models) and tools to create them](https://github.com/becodeorg/BeCode/wiki/Outils-de-mod%C3%A9lisation-de-base-de-donn%C3%A9es-%28SQL%29)
+- [Wiki on CDM (Conceptual data models) and tools to create them](database-modeling-tools-sql.md)
 - [Transactions](https://openclassrooms.com/courses/les-transactions-avec-mysql-et-pdo) : either all requests are executed or none are executed.
 - [Manipulate a form in an efficient way](https://github.com/becodeorg/BeCode/wiki/Backend---traiter-un-formulaire)
 
