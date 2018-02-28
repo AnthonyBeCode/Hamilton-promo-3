@@ -1,86 +1,86 @@
-# PDO - TP
-Pour tous les TP, il faudra respecter ces règles :
-- Respecter le modèle MVC
-- Nommer ses variables, fonctions, bases, tables et champs en anglais  
-- Soigner son CSS
-- Avoir un HTML valide
-- Utiliser Netbeans et Xdebug
-- Chaque TP doit avoir son propre VHOST
-- Utiliser des classes serait un plus
-- Mettre des commentaires utiles
+# PDO - Practical Work
+For each Practical Work, you will have to follow the following rules :
+- Follow the MVC model
+- Name variables, functions, bases, tables and fields in english  
+- Use proper and clean CSS
+- Make sure your HTML is valid and working
+- Use Netbeans and Xdebug
+- Each Practical Work should have its own VHOST
+- Using classes is a plus
+- Use useful comments
 
 
 
 
-## TP 1
-Créer une base de données avec une table permettant d'enregistrer un `utilisateur`. Un utilisateur est défini comme tel :
-- Nom - 50 caractères max
-- Prénom - 50 caractères max
-- Date de naissance - Date
-- Adresse - Texte
-- Code Postal - 5 caractères max
-- Numéro de téléphone - 10 caractères max
-- Service - entier
+## Practical Work #1
+Create a database with a table allowing you to enter a `user`. A user is defined as follows :
+- Last Name - 50 characters max
+- First Name - 50 characters max
+- Date of birth - Date
+- Address - Text
+- Postal Code - 5 characters max
+- Phone number - 10 characters max
+- Service - Integer
 
-Créer une table `Service` :
-- Nom du service - 50 caractères max
-- Description - 100 caractères max
+Create a table called `Service` :
+- Name of service - 50 characters max
+- Description - 100 characters max
 
-Remplir la table `Service` avec ces informations :
+Fill in the `Service` table with the following info :
 
-Nom du service   |   Description
+Name of service   |   Description
 ------           |    ---
-Maintenance      |   Les spécialistes du Hardware
-Web Developer    |   Pour eux tout est code
-Web Designer     |   Y a que le CSS dans la vie
-Reférenceur      |   Regarde les Serps Google du matin au soir et du soir au matin
+Maintenance      |   Hardware specialists
+Web Developer    |   For them nothing has sense unless it's code
+Web Designer     |   Only CSS matters
+SEO Expert      |   Look at Google SERPs day and night
 
-Faire une page index permettant de lister les utilisateurs en affichant ces données :
-- Son nom et son prénom
-- Son âge
-- Son adresse complète
-- Son numéro de téléphone
-- Son service
+Create an index page listing all the users and displaying the following data:
+- Their last name and first name
+- Their age
+- Their full address
+- Their phone number
+- Their service
 
-Sur cette page on doit pouvoir filtrer les services via une liste déroulante et donc n'afficher que ceux choisi.  
-On doit aussi pourvoir supprimer un utilisateur via un bouton.  
+On this page you should be able to filter through all the services via a dropdown list and only display the ones you've selected.
+You should also be able to delete a user via a button. 
 
-Faire une autre page permettant d'ajouter un utilisateur. On doit s'assurer que les données saisies par l'utilisateur sont celle attendues.  
-**Attention au piratage !!**
+Create another page that allows you to add a new user. You should make sure the data entered by the user are correct.
+**Watch out for hackers !!**
 
 
-## TP2
-Créer une base de données comportant 3 tables.  
+## Practical Work #2
+Create a database containing 3 tables. 
 Table `client` :
-- Nom - 50 caractères max
-- Prénom - 50 caractères max
-- Date de naissance - Date
-- Adresse - Texte
-- Code Postal - 5 caractères max
-- Numéro de téléphone - 10 caractères max
-- Statut marital - entier
+- Last name - 50 characters max
+- First name - 50 characters max
+- Date of birth - Date
+- Address - Text
+- Postal Code - 5 characters max
+- Phone number - 10 characters max
+- Marital status - Integer
 
-Table `statutmarital` :
-- Statut - 50 caractères max
+Table `maritalstatus` :
+- Status - 50 characters max
 
-Remplir la table Satut marital avec ces informations :
+Fill in the `maritalstatus` table with the following info :
 
-Statut   
+Status   
 ------           
-Célibataire      
-Concubinage    
-Divorcé     
-Marié
-Veuf
+Single      
+Cohabitation    
+Divorced     
+Married
+Widow
 
-Table `crédit` :
-- Organisme - 50 caractères max
-- Montant - decimal
+Table `credit` :
+- Organisation - 50 characters max
+- Amount - decimal
 
-Créer 4 pages :
-- Creation client : permettant de créer un client
-- Ajout credit : permettant d'ajouter un crédit
-- Liste client : permettant de lister les clients
-- Détail client : permettant d'afficher les infos clients (info perso, crédits)
+Create 4 pages :
+- Add client : allows you to add a client
+- Add credit : allows you to add a credit
+- Client list : allows you to list all the clients
+- Client details : displays clients info (personal info, credits)
 
-**Un client peut avoir plusieurs crédits.**
+**A client can have many credits.**
