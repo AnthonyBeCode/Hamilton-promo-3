@@ -15,7 +15,7 @@ I have created a database for this example. You can find the database to import 
 
 This database contains, at this moment, only the table *hiking*
 
-# Remplir la base de données
+# Fill the database
 
 It's easier to start, having already some data.
 
