@@ -14,7 +14,7 @@ In the .sql file, you will stock requests that will let you do those actions :
 - Show only the first names.
 - Show the first names, birthdates and the school of each of them.
 - Show females students only.
-- Show students that are in the school Andy only.
+- Show students that are in the school Andy(2) only.
 - Show only the first names of students, but in descending order (DESC). Then do the same but limit the result to 2.
 - Add Ginette Dalor, born the 01/01/1930 and put her at Central, still in SQL.
 - Modify Ginette (still in SQL) and change her gender and her first name to "Omer".
@@ -38,7 +38,7 @@ Dans un fichier .sql, tu stockeras les requêtes qui te permettront de réaliser
 - Affiche uniquement les prénoms.
 - Affiche les prénoms, les dates de naissance et l’école de chacun.
 - Affiche uniquement les élèves qui sont de sexe féminin.
-- Affiche uniquement les élèves qui font partie de l’école Andy.
+- Affiche uniquement les élèves qui font partie de l’école Andy (2).
 - Affiche uniquement les prénoms des étudiants, par ordre inverse à l’alphabet
 (DESC). Ensuite, la même chose mais en limitant les résultats à 2.
 - Ajoute Ginette Dalor, née le 01/01/1930 et affecte-la à Central, toujours en
