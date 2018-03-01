@@ -12,7 +12,7 @@ Dans un fichier .sql, tu stockeras les requêtes qui te permettront de réaliser
 - Affiche uniquement les prénoms.
 - Affiche les prénoms, les dates de naissance et l’école de chacun.
 - Affiche uniquement les élèves qui sont de sexe féminin.
-- Affiche uniquement les élèves qui font partie de l’école Andy.
+- Affiche uniquement les élèves qui font partie de l’école Andy (2).
 - Affiche uniquement les prénoms des étudiants, par ordre inverse à l’alphabet
 (DESC). Ensuite, la même chose mais en limitant les résultats à 2.
 - Ajoute Ginette Dalor, née le 01/01/1930 et affecte-la à Central, toujours en
