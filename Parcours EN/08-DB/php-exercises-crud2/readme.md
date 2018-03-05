@@ -23,9 +23,9 @@ Add this show to the database : "I love techno" from David Guetta on the 20th Se
 
 ## Exercice 4
 
-Create a form which contain these fields : name, surname, birthdate, fidelity card(checkbox) and fidelity card's ID. This dorm should be modified by the client.
+Create a form which contain these fields : name, surname, birthdate, fidelity card(checkbox) and fidelity card's ID. This form should allow us to modify the data of a client.
 
-In this form, you should display the information of Gabriel Perry. Modify hos birthdate to 9 April 1994.
+In this form, you should display the information of Gabriel Perry. Modify his birthdate to 9 April 1994.
 
 
 ## Exercice 5
