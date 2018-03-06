@@ -17,11 +17,11 @@
 ## Exercices
 Attention, il faut bien séparer le traitement PHP (avant la balise doctype) et l'affichage dans le navigateur (dans la partie HTML)!
 
-- [petit exercice d'initiation au sql](sql-exo-pdf) présent dans le premier PDF
-- [MySQL CRUD - Activité "randonnée"](php-training-mysql) - Comprendre la base de données
-- [Authentification](php-challenge-auth) - Create a user system
-- [CRUD - 1](php-exercises-crud1) - CRUD part one
-- [CRUD - 2](php-exercises-crud2) - CRUD part two
+1. [Authentification](php-challenge-auth) - Create a user system
+1. [petit exercice d'initiation au sql](sql-exo-pdf) présent dans le premier PDF
+1. [CRUD - 1](php-exercises-crud1) - CRUD part one
+1. [CRUD - 2](php-exercises-crud2) - CRUD part two
+1. [MySQL CRUD - Activité "randonnée"](php-training-mysql) - Comprendre la base de données
 
 ## Ressources
 
