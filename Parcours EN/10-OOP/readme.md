@@ -3,7 +3,7 @@
 ## Course
 
 - [Introduction to OOP](https://docs.google.com/presentation/d/1CeTTHIxV6bTm2IHtWaOe7ZKK0E2BmGGcdXy1Il3Vuls/edit?usp=sharing)
-- [OOP - chapter 2](https://docs.google.com/presentation/d/13TD29INIBJy9YFh6VDORqE_sJamQ50ltoJWvINsicWk/edit?usp=sharing)
+- [OOP - chapter 2](https://docs.google.com/presentation/d/1uF64TwgqOQl6TTrEtkVUfL1A0fXr9tPWemRA89WiYeg/edit?usp=sharing)
 
 ## Exercise 1 : Helpers Class
 
