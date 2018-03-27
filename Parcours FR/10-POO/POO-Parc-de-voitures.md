@@ -16,7 +16,7 @@ Un véhicule est caractérisé par : 
 ### Lors de l'instanciation de la class pouvoir déterminer si :
 
 - Le modèle est `Audi` elle est d'office `reserved` sinon elle est `free`
-- Le véhicule est un utilitaire ou commerciale selon son poids (>3,5 tonnes)
+- Le véhicule est un utilitaire ou standard selon son poids (>3,5 tonnes)
 - Le pays d'ou provient la voiture est la Belgique, la France ou l'Allemagne si l'imatriculation commence par `BE`,`FR` ,`DE`
 - Déterminer si elle a beaucoup servi `low < 100.000` ou `middle > 100.000` ou `high > 200.000` selon le kilométrage
 - Calculer le nombre d'années depuis la date de mise en circulation
