@@ -5,39 +5,39 @@
 We want to simulate the management of a car park, so we'll create a `class Car`
 a car's properties for this are : 
 
-- un numéro d'immatriculation
-- une date de mise en circulation
-- un kilométrage
-- un modèle
-- une marque
-- une couleur
-- un poids
+- a licence plate
+- a release date
+- the mileage
+- a model
+- a brand
+- a color
+- a weight
 
-### Lors de l'instanciation de la class pouvoir déterminer si :
+### When instantiating the class be able to determine if :
 
-- Le modèle est `Audi` elle est d'office `reserved` sinon elle est `free`
-- Le véhicule est un utilitaire ou commerciale selon son poids (>3,5 tonnes)
-- Le pays d'ou provient la voiture est la Belgique, la France ou l'Allemagne si l'imatriculation commence par `BE`,`FR` ,`DE`
-- Déterminer si elle a beaucoup servi `low < 100.000` ou `middle > 100.000` ou `high > 200.000` selon le kilométrage
-- Calculer le nombre d'années depuis la date de mise en circulation
+- The model is an `Audi` then it is automatically `reserved` otherwise it is `free`
+- The vehicle is a utility or commercial depending on its weight (> 3.5 tons)
+- The country where the car comes from is Belgium, France or Germany depending on the registration which begins with `BE`,`FR` or `DE`
+- Determine if it was used a lot `low < 100.000` or `middle > 100.000` or `high > 200.000` depending on the mileage
+- Calculate the number of years since the release date
 
-### Changements
+### Change
 
-Faire de sorte que si :
+Make sure that:
 
-- Le kilométrage change, la `class` doit refaire la condition pour savoir si elle a beaucoup servi
-- Que l'on ne puisse **pas changer** la date de mise en circulation
-- Que l'on ne puisse **pas changer** numéro d'immatriculation
-- Que l'on ne puisse **pas changer** le modèle
-- Que l'on ne puisse **pas changer** la une marque
+- if the mileage changed, the `class` has to re-check the condition to find out if it has been use a lot
+- We **can't change** the release date
+- We **can't change** the licence plate
+- We **can't change** the model
+- We **can't change** the brand
 
-Crée un fonction `rouler` qui fait "avancer la voiture de 100 000 km" et que l'usure passe de `low` à `high`
+Create a function `drive` which makes "the car move 100 000km forward"  and that the wear goes from `low` to` high`
 
-### Affichage
+### Display
 
-Crée une méthode `display` qui permet d'afficher la photo de la voiture et ses caractéristiques dans un tableau HTML
+create a methode `display` which displays the photo of the car and its features in an HTML table
 
-- [Tu trouveras ici des images et des modèles de voitures](http://www.cars-data.com/)
+- [Here you will find images and models of cars](http://www.cars-data.com/)
 
 
 
