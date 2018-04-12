@@ -5,7 +5,7 @@
 - Préparer le visuel du site en utilisant un design tool tel que Figma
 - Organiser son travail en kanban (git, trello)
 - Messages git commit clair
-- Développer un CMS en HTML, CSS, JS, PHP avec au moins 1 CRUD
+- Développer un CMS en HTML, CSS, JS, PHP ou Node.js avec au moins 1 CRUD
 - Appliquer les concepts OOP, MVC
 - Ajouter un readme de qualité
 - Fonctionnalité pour utilisateur (login, logout, delete, ...)
