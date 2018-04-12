@@ -9,7 +9,7 @@
 - Appliquer les concepts OOP, MVC
 - Ajouter un readme de qualité
 - Fonctionnalité pour utilisateur (login, logout, delete, ...)
-- Déployer le site en ligne (Heroku ou 000webhost ou AWS ou Hebergement perso)
+- Déployer le site en ligne ([Heroku](https://heroku.com/) ou [000webhost](https://000webhost.com) ou [AWS](https://aws.amazon.com/fr/free) ou Hebergement perso ou autre... )
 
 ## Briefing
 Fait un choix parmis ces 3 clients et réalise leur siteweb.
