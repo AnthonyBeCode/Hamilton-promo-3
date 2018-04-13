@@ -12,8 +12,7 @@
 - Deploy the site online ([Heroku](https://heroku.com/) or [000webhost](https://000webhost.com) or [AWS](https://aws.amazon.com/fr/free) or personal hosting or other... )
 
 ## Briefing
-Fait un choix parmis ces 3 clients et réalise leur siteweb.
-Choose for 1 of the following clients you'll create a website for.
+Choose for one of the following clients you'll create a website for.
 
 ### 1. ZikFreak
 Zikfreak needs a website to manage the letting of music studios in Brussels
