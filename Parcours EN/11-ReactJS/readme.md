@@ -8,11 +8,11 @@ Read this thoroughly before starting !
 1. [Initiation](./Initiation/README.md)
 2. [Beginning](./Initiation/Beginning.md)
 
-## Premier Site
+## First site
 1. [SiteWeb](./Site/readme.md)
 2. [Sass](./Site/Sass/readme.md)
 
-### Projet
+### Project
 1. [installation](./TodoList/Cours/Installation.md)
 2. [Introduction](./TodoList/Cours/introduction.md)
 3. [Dom](./TodoList/Cours/Dom.md)
@@ -24,7 +24,7 @@ Read this thoroughly before starting !
 9. [Deploiment](./TodoList/Cours/Deploiment.md)
 10. [Animation](./TodoList/Cours/Animations.md)
 
-Fichier du cours [Application](./TodoList/App)
+Course file [Application](./TodoList/App)
 
 ### Backend
 
@@ -34,19 +34,19 @@ Fichier du cours [Application](./TodoList/App)
 
 1. [Router](./Router/readme.md)
 
-### Exercice
+### Exercise
 
-1. [Brief d'exercice](/.ChatBox/ChatBox.md)
+1. [Briefing](/.ChatBox/ChatBox.md)
 
-- Fichier de début de cours [ChatBox](./ChatBox/StartFileChatBox) <br/>
-- Fichier de fin de cours [ChatBox](./ChatBox/EndFileChatBox)
+- Course start file [ChatBox](./ChatBox/StartFileChatBox) <br/>
+- End of course file [ChatBox](./ChatBox/EndFileChatBox)
 
-## Règles de bases
+## Basic rules
 
-- Analysez bien tout avant de vous lancer dans les étapes suivantes
-- Ne copiez collez pas, vous allez perdre énormement de temps...
-- Les bouts de code mis un peu partout ne sont pas à prendre simplement comme ça, les exemples donnés sont souvent pas à mettre au même endroit (revenir à la première règle)
-- Si vous ne comprenez pas c'est que vous allez trop vite, prenez votre temps
-- Amusez-vous !
+- Analyse everything before you start the following steps
+- Don't copy and paste, you will waste a lot of time...
+- The code bits put a little everywhere are not to take simply like that, the examples are often not to put at the same place (return to the first rule)
+- If you don't understand, you're going too fast, take your time.
+- Have fun !
 
 ![Giphy](http://www.fredzone.org/wp-content/uploads/2014/11/daft1_2.gif)

@@ -1,35 +1,30 @@
 # React
 
-## Table des matières
+## Table of contents
 
-1. [installation](./Installation.md) 
-2. [Introduction](./introduction.md) 
+1. [Setup](./Installation.md)
+2. [Introduction](./introduction.md)
 3. [Dom](./Dom.md)
-4. [Props et State](./PropsEtState.md)
-5. [Interaction entre component P1](./InteractionEntreComponentPartie1.md) 
-6. [Interaction entre component P2](./InteractionEntreComponentPartie2.md) 
+4. [Props and State](./PropsEtState.md)
+5. [Interacting with components P1](./InteractionEntreComponentPartie1.md)
+6. [Interacting with components P2](./InteractionEntreComponentPartie2.md)
 7. [Binding](./Binding.md)
 8. [LifeCycle](./LifeCycle.md)
-9. [Deploiment](./Deploiment.md)
-10. [Animation](./Animations.md)
+9. [Deployment](./Deploiment.md)
+10. [Animations](./Animations.md)
 
 
-## Les animations
+## Animations
 
-Mettez en place un système d'animation sur chaque todos qui s'affiche.
-Pour faire ça on va avoir besoin d'un package et donc de l'installer sur notre projet.
-On va couper le serveur nodeJs en cours pour faire une petit ligne de commande:
+Set up an animation system on each todos that appears. To do that we will need a package and therefore to install it on our project. We'll cut the current nodeJs server to make a small command line:
 
 ```
 npm install ReactCssTransition --save
 ```
 
-Pour résumé, npm install pour dire que l'on install un package
-ReactCssTransition pour dire quel package
---save, c'est pour l'ajouter automatiquement au fichier package.json qui répertorie tout les packages utilisé.
+To summarize, npm install to say that we install a package ReactCssTransition to tell which package --save, is to automatically add it to the package.json file that lists all packages used.
 
-Pour utiliser ReactCssTransitionGroup, rien de plus simple, 
-On doit importer la librairie et aussi un petit bout de css pour bien faire: 
+To use ReactCssTransitionGroup, nothing could be easier, we have to import the dependancy/library and also a small piece of css to do well:
 
 ```JS
 import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
@@ -38,7 +33,7 @@ import '../animation.css';
 
 ```JS
 <div className="messages">
-    <ReactCSSTransitionGroup 
+    <ReactCSSTransitionGroup
         component="div"
         className="message"
         transitionName="message"
